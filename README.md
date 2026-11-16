@@ -2,6 +2,8 @@
 
 **La forge des développeurs africains. Par les devs, pour les devs.**
 
+**Démo en ligne : https://traorericealiman.github.io/sankofa/** (compte de démonstration : `awa@exemple.dev`, n'importe quel mot de passe)
+
 Sankofa est une plateforme d'échange pour les développeurs : chacun y publie ses projets, échange directement avec les autres, partage des capsules vidéo et réutilise du code en créditant toujours son auteur.
 
 Projet réalisé pour le Systalink Challenge (Coupe d'Afrique des Développeurs 2026), sur le thème « Construire la plateforme d'échange africaine, pour les devs, par les devs ».
