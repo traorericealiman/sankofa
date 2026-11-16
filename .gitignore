@@ -1,0 +1,4 @@
+# Vidéos de démo : trop lourdes pour le dépôt, publiées dans une release GitHub
+demo/*.mp4
+.DS_Store
+Thumbs.db
